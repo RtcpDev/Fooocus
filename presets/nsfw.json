@@ -1,0 +1,65 @@
+{
+    "default_model": "lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "nudify_xl_lite.safetensors",
+            0.5
+        ],
+        [
+            true,
+            "add-detail-xl.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "NsfwPovAllInOneLoraSdxl.safetensors",
+            0.8
+        ],
+        [
+            true,
+            "epiCRealnessRC1.safetensors",
+            0.8
+        ],
+        [
+            true,
+            "Realism_Lora_By_Stable_yogi_SDXL8_1.safetensors",
+            0.3
+        ]
+    ],
+    "default_cfg_scale": 3.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Photograph",
+        "Fooocus Negative"
+    ],
+    "default_aspect_ratio": "896*1152",
+    "default_overwrite_step": -1,
+    "checkpoint_downloads": {
+        "realismByStableYogi_ponyV3VAE.safetensors": "https://civitai.com/api/download/models/1236430?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
+        "lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors": "https://civitai.com/api/download/models/1569593?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
+        "pornmaster_proSDXLV4VAE.safetensors": "https://civitai.com/api/download/models/1678726?type=Model&format=SafeTensor&size=full&fp=fp32&token=fa9d87134218675b38955e8d66e809bd"
+    },
+    "embeddings_downloads": {
+        "DeepNegative_xl_v1.safetensors": "https://civitai.com/api/download/models/454217?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd"
+    },
+    "lora_downloads": {
+        "nudify_xl_lite.safetensors": "https://civitai.com/api/download/models/177674?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
+        "Dressed_Undressed_XL.safetensors": "https://civitai.com/api/download/models/1138533?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
+        "NsfwPovAllInOneLoraSdxl.safetensors": "https://civitai.com/api/download/models/160240?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",    
+        "leaked_nudes_style_v1_fixed.safetensors": "https://civitai.com/api/download/models/1627770?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
+        "Realism_Lora_By_Stable_yogi_SDXL8_1.safetensors": "https://civitai.com/api/download/models/1236430?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
+        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor&&token=fa9d87134218675b38955e8d66e809bd",
+        "epiCRealnessRC1.safetensors": "https://civitai.com/api/download/models/1648538?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
+        "flat_chested_v_4_1821-4.safetensors": "https://civitai.com/api/download/models/445135?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd"
+    },
+    "previous_default_models": ["lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors"]
+}
