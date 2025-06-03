@@ -1,6 +1,6 @@
 {
     "default_model": "lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors",
-    "default_refiner": "perfection_style_SD1_5.safetensors",
+    "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
@@ -48,8 +48,7 @@
         "lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors": "https://civitai.com/api/download/models/1569593?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
         "pornmaster_proSDXLV4VAE.safetensors": "https://civitai.com/api/download/models/1678726?type=Model&format=SafeTensor&size=full&fp=fp32&token=fa9d87134218675b38955e8d66e809bd",
         "epicrealismXL_vxviLastfameRealism.safetensors": "https://civitai.com/api/download/models/1522905?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
-        "trueAmateurFeelingXL_v2.safetensors": "https://civitai.com/api/download/models/907265?type=Model&format=SafeTensor&size=full&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
-        "perfection_style_SD1_5.safetensors": "https://civitai.com/api/download/models/486099?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd"
+        "trueAmateurFeelingXL_v2.safetensors": "https://civitai.com/api/download/models/907265?type=Model&format=SafeTensor&size=full&fp=fp16&token=fa9d87134218675b38955e8d66e809bd"
     },
     "embeddings_downloads": {
         "DeepNegative_xl_v1.safetensors": "https://civitai.com/api/download/models/454217?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd"
