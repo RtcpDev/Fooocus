@@ -48,7 +48,8 @@
         "lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors": "https://civitai.com/api/download/models/1569593?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
         "pornmaster_proSDXLV4VAE.safetensors": "https://civitai.com/api/download/models/1678726?type=Model&format=SafeTensor&size=full&fp=fp32&token=fa9d87134218675b38955e8d66e809bd",
         "epicrealismXL_vxviLastfameRealism.safetensors": "https://civitai.com/api/download/models/1522905?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
-        "trueAmateurFeelingXL_v2.safetensors": "https://civitai.com/api/download/models/907265?type=Model&format=SafeTensor&size=full&fp=fp16&token=fa9d87134218675b38955e8d66e809bd"
+        "trueAmateurFeelingXL_v2.safetensors": "https://civitai.com/api/download/models/907265?type=Model&format=SafeTensor&size=full&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
     },
     "embeddings_downloads": {
         "DeepNegative_xl_v1.safetensors": "https://civitai.com/api/download/models/454217?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd"
@@ -67,7 +68,8 @@
         "melanin-XL.safetensors": "https://civitai.com/api/download/models/435833?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
         "Real_body_XL.safetensors": "https://civitai.com/api/download/models/1033259?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
         "NudeXL.safetensors": "https://civitai.com/api/download/models/243570?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
-        "native_brazilian.safetensors": "https://civitai.com/api/download/models/212877?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd"
+        "native_brazilian.safetensors": "https://civitai.com/api/download/models/212877?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd",
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
     },
     "previous_default_models": ["lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors"]
 }
