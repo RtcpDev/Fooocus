@@ -44,7 +44,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realismByStableYogi_v5XLFP16.safetensors": "https://civitai.com/api/download/models/1075446?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
+        "cyberrealisticXL_v57.safetensors": "https://civitai.com/api/download/models/1766318?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
         "lustifySDXLNSFW_oltFIXEDTEXTURES.safetensors": "https://civitai.com/api/download/models/1569593?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
         "pornmaster_proSDXLV4VAE.safetensors": "https://civitai.com/api/download/models/1678726?type=Model&format=SafeTensor&size=full&fp=fp32&token=fa9d87134218675b38955e8d66e809bd",
         "epicrealismXL_vxviLastfameRealism.safetensors": "https://civitai.com/api/download/models/1522905?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
