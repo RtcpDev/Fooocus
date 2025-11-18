@@ -34,9 +34,7 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "cyberrealisticXL_v70.safetensors": "https://civitai.com/api/download/models/2152184?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd",
-        "cyberrealisticXL_desireV10.safetensors": "https://civitai.com/api/download/models/2318860?type=Model&format=SafeTensor&size=full&fp=fp32&token=fa9d87134218675b38955e8d66e809bd",
-        "mopMixtureOfPerverts_v51DMD.safetensors": "https://civitai.com/api/download/models/2377298?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd"
+        "cyberrealisticXL_v70.safetensors": "https://civitai.com/api/download/models/2152184?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=fa9d87134218675b38955e8d66e809bd"  
     },
     "embeddings_downloads": {
         "DeepNegative_xl_v1.safetensors": "https://civitai.com/api/download/models/454217?type=Model&format=SafeTensor&token=fa9d87134218675b38955e8d66e809bd"
